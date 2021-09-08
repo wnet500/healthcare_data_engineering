@@ -13,4 +13,4 @@
 - 문제 6의 경우 답을 `question_6_answer.csv`로 저장하여 업로드함
 
 ## 문의
-- 문의 사항은 `wnet50094@gamail.com` 이메일 주소로 연락바람
+- 문의 사항은 `wnet50094@gmail.com` 이메일 주소로 연락바람
