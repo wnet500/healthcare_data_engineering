@@ -1,0 +1,16 @@
+,pattern,person_count
+0,(naproxen),10
+1,(simvastatin) -> (naproxen) -> (simvastatin),4
+2,(simvastatin),2
+3,(simvastatin) -> (clopidogrel),2
+4,"(clopidogrel, simvastatin)",1
+5,(digoxin) -> (naproxen) -> (digoxin),1
+6,"(naproxen) -> (clopidogrel, simvastatin) -> (simvastatin) -> (clopidogrel, simvastatin) -> (simvastatin, clopidogrel) -> (simvastatin) -> (simvastatin, clopidogrel) -> (simvastatin) -> (simvastatin, clopidogrel) -> (simvastatin) -> (simvastatin, clopidogrel) -> (simvastatin) -> (simvastatin, clopidogrel) -> (simvastatin) -> (simvastatin, clopidogrel) -> (simvastatin) -> (simvastatin, clopidogrel) -> (clopidogrel, simvastatin) -> (simvastatin) -> (clopidogrel, simvastatin) -> (simvastatin, clopidogrel) -> (simvastatin) -> (simvastatin, clopidogrel) -> (simvastatin) -> (simvastatin, clopidogrel) -> (clopidogrel, simvastatin) -> (simvastatin) -> (clopidogrel, simvastatin)",1
+7,"(naproxen) -> (digoxin) -> (digoxin, simvastatin)",1
+8,(naproxen) -> (digoxin) -> (simvastatin),1
+9,"(simvastatin) -> (clopidogrel) -> (simvastatin, clopidogrel) -> (clopidogrel, simvastatin) -> (simvastatin, clopidogrel) -> (clopidogrel, simvastatin) -> (digoxin) -> (clopidogrel, digoxin, simvastatin) -> (clopidogrel, simvastatin, digoxin) -> (clopidogrel, digoxin, simvastatin) -> (clopidogrel) -> (clopidogrel, digoxin, simvastatin) -> (simvastatin, clopidogrel, digoxin) -> (simvastatin, digoxin, clopidogrel) -> (simvastatin, clopidogrel, digoxin) -> (clopidogrel, digoxin, simvastatin) -> (simvastatin, clopidogrel, digoxin) -> (clopidogrel, digoxin, simvastatin) -> (clopidogrel, simvastatin, digoxin) -> (simvastatin, clopidogrel, digoxin) -> (simvastatin, digoxin, clopidogrel) -> (simvastatin, clopidogrel, digoxin) -> (clopidogrel, digoxin, simvastatin) -> (simvastatin, clopidogrel, digoxin) -> (digoxin, simvastatin, clopidogrel) -> (clopidogrel, digoxin, simvastatin) -> (clopidogrel) -> (clopidogrel, digoxin, simvastatin) -> (digoxin, clopidogrel, simvastatin) -> (clopidogrel, digoxin, simvastatin) -> (digoxin, clopidogrel, simvastatin) -> (clopidogrel, digoxin, simvastatin) -> (simvastatin, clopidogrel, digoxin) -> (clopidogrel, simvastatin, digoxin) -> (simvastatin, clopidogrel, digoxin) -> (digoxin, simvastatin, clopidogrel) -> (digoxin, clopidogrel, simvastatin) -> (clopidogrel, digoxin, simvastatin)",1
+10,(simvastatin) -> (naproxen),1
+11,"(simvastatin) -> (simvastatin, clopidogrel)",1
+12,"(simvastatin) -> (simvastatin, clopidogrel) -> (clopidogrel, simvastatin) -> (simvastatin, clopidogrel) -> (clopidogrel, simvastatin) -> (simvastatin, clopidogrel) -> (clopidogrel, simvastatin) -> (simvastatin, clopidogrel) -> (clopidogrel, simvastatin) -> (simvastatin, clopidogrel)",1
+13,"(simvastatin, clopidogrel)",1
+14,"(simvastatin, clopidogrel) -> (simvastatin) -> (simvastatin, clopidogrel) -> (simvastatin) -> (simvastatin, clopidogrel) -> (simvastatin) -> (simvastatin, clopidogrel) -> (simvastatin) -> (simvastatin, clopidogrel)",1
